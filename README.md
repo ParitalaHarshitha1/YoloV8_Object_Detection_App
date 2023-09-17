@@ -5,7 +5,7 @@ This Streamlit app allows users to perform real-time object detection on images 
 
 **Key Features:**
 
-- Object detection in images and videos.<br><br>- Easy file upload and processing.<br><br>- Real-time results visualization.
+<br><br>- Object detection in images and videos.<br><br>- Easy file upload and processing.<br><br>- Real-time results visualization.
 
 **Installation**
 To run this app locally, follow these steps:
