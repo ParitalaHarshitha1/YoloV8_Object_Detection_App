@@ -4,7 +4,6 @@
 This Streamlit app allows users to perform real-time object detection on images and videos using the YOLOv8 model. Users can choose between image and video input, upload their files, and obtain predictions directly through a user-friendly interface.
 
 **Key Features:**
-
 <br><br>- Object detection in images and videos.<br><br>- Easy file upload and processing.<br><br>- Real-time results visualization.
 
 **Installation**
