@@ -1,19 +1,13 @@
 # 🕵️ YOLOv8 Object Detection Streamlit App
 
-Overview
+**Overview**
 This Streamlit app allows users to perform real-time object detection on images and videos using the YOLOv8 model. Users can choose between image and video input, upload their files, and obtain predictions directly through a user-friendly interface.
 
 **Key Features:**
 
-Object detection in images and videos.
-Easy file upload and processing.
-Real-time results visualization.
-Demo
-Include a GIF or screenshot here to give users a quick preview of your app.
+- Object detection in images and videos.<br><br>- Easy file upload and processing.<br><br>- Real-time results visualization.
 
-Demo
-
-Installation
+**Installation**
 To run this app locally, follow these steps:
 
 Clone the repository to your local machine.
@@ -51,9 +45,6 @@ View the real-time predictions and bounding boxes on the uploaded content.
 
 Enjoy exploring the app!
 
-Dependencies
-List the main dependencies used in your project. You can generate this list using pip freeze > requirements.txt.
-
 Streamlit
 OpenCV
 YOLOv8
@@ -62,7 +53,7 @@ Acknowledgments
 Mention any external libraries, models, or resources you used in your project. Give credit to their creators and provide links to their repositories or websites.
 
 YOLOv8 Model: GitHub Repo
-Streamlit: Official Documentation
+**Streamlit:** Official Documentation
 Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
